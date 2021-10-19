@@ -3,6 +3,10 @@
   "version": "0.5.9",
   "author": "dtaylor113",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patternfly/angularjs-datatables.git"
+  },
   "license": "MIT",
   "ignore": [
     ".bowerrc",
